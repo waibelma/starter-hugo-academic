@@ -44,9 +44,9 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
+      name: Folllow me
+      link: 'https://twitter.com/martin_waibel'
+    - icon: linkedin
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
