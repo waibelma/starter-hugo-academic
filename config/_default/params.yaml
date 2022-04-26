@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  #the  me_night: minimal
+  font: Classic
   font_size: L
 
 # SEO
